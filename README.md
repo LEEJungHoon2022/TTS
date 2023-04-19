@@ -7,7 +7,6 @@
 ### 개발 환경 : ubuntu 18.04, vscode, python , pytorch, cuda 11.3
 ### 사용한 Model : Tarcotron2, Waveglow
 ### 사용한 데이터 : SleepingCE Speech Dataset(음성 파일 하나당 크기 : 평균 3초, 전체 데이터 크기 : 약 2.5시간, 화자 성별 : 남성), 음성 데이터 문장
-
 ### 훈련 후 생성해본 데이터는 해당 소스코드에 첨부되어있음
 
 ## 더 나아가
